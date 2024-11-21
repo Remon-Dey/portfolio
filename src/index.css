@@ -34,6 +34,7 @@ body {
     line-height: 1.7;
     background-image: url(./assets/bg_image.png)
 }
+       /* GENERAL___STYLES */
 .container {
     width: var(--container-width-lg);
     margin: 0 auto;
