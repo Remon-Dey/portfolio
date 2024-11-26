@@ -25,6 +25,7 @@ header {
     position: absolute;
     left: 0;
     bottom: 4.2rem;
+    font-size: 1.15rem;
 }
 .header__socials::after {
     content: "";
@@ -42,12 +43,18 @@ header {
     transform: translateX(-50%);
     margin-top: 4rem;
     border-radius: 50%;
-    border: 2px solid rgb(227, 217, 217);
+    border: 2px solid transparent;
     overflow: hidden;
-    box-shadow: 0em 0.1em 2.5em 0.2em var(--color-white),
-		0em 0.4em 1.25em 0em rgba(255, 255, 255, 0.15);
+    /* box-shadow: 0em 0.1em 2.5em 0.2em var(--color-white),
+		0em 0.4em 1.25em 0em rgba(255, 255, 255, 0.15); */
     padding-top: 20px;
     padding-left: 25px;
+}
+.myphoto:hover {
+    border: 2px solid rgb(227, 217, 217);
+    box-shadow: 0em 0.1em 2.5em 0.2em var(--color-white),
+		0em 0.4em 1.25em 0em rgba(255, 255, 255, 0.15);
+        opacity: 0.9;
 }
 
 /* SCROLL-DOWN */
@@ -63,6 +70,10 @@ header {
 @media screen and (max-width: 1024px) {
     header {
         height: 85vh;
+    }
+    .myphoto {
+        width: 30vh;
+		height: auto;
     }
 }
 /*  ///////// MEDIA-QUERIES ///////// SMALL DEVICES) */
