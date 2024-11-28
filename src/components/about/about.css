@@ -4,18 +4,20 @@
     gap: 15%;
 }
 .about__me {
-    border: 1px solid rgb(227, 217, 217);
+    border: 1px solid transparent;
     border-radius: 30px;
     cursor: default;
     box-shadow: 0em 0.1em 1.5em 0.2em var(--color-white)
 }
 .about__me:hover {
-    border: 1px solid var(--color-primary);
+    border: 1px solid transparent;
     cursor: default;
     box-shadow: 0em 0.1em 1.5em 0.2em var(--color-primary);
+    
+}
+.about__me-image {
     opacity: 0.9;
 }
-
 .about_h5 {
     color: var(--color-primary);
     font-size: 0.9rem;
