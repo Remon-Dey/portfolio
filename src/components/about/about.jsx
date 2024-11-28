@@ -2,7 +2,7 @@ import React from 'react'
 import './about.css'
 import { FaAward } from "react-icons/fa6";
 import { GoProjectSymlink } from "react-icons/go";
-
+import Myphoto from '../../assets/my_photo2.png'
 
 const About = () => {
   return (
@@ -12,9 +12,8 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src="" alt="" />
+            <img src={Myphoto} alt="my png" />
           </div>
-
         </div>
         <div className="about__content">
           <div className="about__cards">
