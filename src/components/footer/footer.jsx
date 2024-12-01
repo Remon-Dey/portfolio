@@ -6,6 +6,7 @@ import { FaGithub } from "react-icons/fa6";
 const Footer = () => {
   return (
     <footer>
+      <h2 className='footer__logo'>' ERROR! '</h2>
       <ul className='permalinks'>
         <li> <a href='#'>Home</a></li> 
         <li> <a href='#about'>About</a></li>
