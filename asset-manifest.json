@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio_of_Remon/static/css/main.41599078.css",
-    "main.js": "/portfolio_of_Remon/static/js/main.c2211eb3.js",
+    "main.js": "/portfolio_of_Remon/static/js/main.720c12e4.js",
     "static/media/my_photo2.png": "/portfolio_of_Remon/static/media/my_photo2.b99f7abee0203787df00.png",
     "static/media/my_photo.png": "/portfolio_of_Remon/static/media/my_photo.ba5550ceefa01d4a6674.png",
     "static/media/staybnb.jpeg": "/portfolio_of_Remon/static/media/staybnb.326345ceda6a09ffa14d.jpeg",
@@ -10,10 +10,10 @@
     "static/media/Remon_CV.pdf": "/portfolio_of_Remon/static/media/Remon_CV.144f072be24948ef0244.pdf",
     "index.html": "/portfolio_of_Remon/index.html",
     "main.41599078.css.map": "/portfolio_of_Remon/static/css/main.41599078.css.map",
-    "main.c2211eb3.js.map": "/portfolio_of_Remon/static/js/main.c2211eb3.js.map"
+    "main.720c12e4.js.map": "/portfolio_of_Remon/static/js/main.720c12e4.js.map"
   },
   "entrypoints": [
     "static/css/main.41599078.css",
-    "static/js/main.c2211eb3.js"
+    "static/js/main.720c12e4.js"
   ]
 }
