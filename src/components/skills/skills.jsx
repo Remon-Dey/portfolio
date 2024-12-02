@@ -21,7 +21,7 @@ const Skills = () => {
             <article className='skills_details'>
             <BsShieldFillCheck className='skills_details-icon' />
             <div>
-            <h4>HTML5 & CSS3</h4>
+            <h4>HTML & CSS3</h4>
             <small className='text-light'>Experienced</small>
             </div>
             </article>
