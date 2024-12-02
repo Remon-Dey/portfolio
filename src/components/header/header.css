@@ -8,6 +8,10 @@ header {
     height: 100%;
     position: relative;
 }
+.text-light_h6 {
+    color: var(--color-light);
+    font-size: 0.9rem;
+}
 
 /* Headerbutton */
 .Headerbutton {
