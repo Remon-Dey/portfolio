@@ -11,6 +11,13 @@ const Skills = () => {
         <div className="skills_languages">
           <h3>Languages</h3>
           <div className="skills_content">
+          <article className='skills_details'>
+            <BsShieldFillCheck className='skills_details-icon' />
+            <div>
+            <h4>Python</h4>
+            <small className='text-light'>Basic</small>
+            </div>
+            </article>
             <article className='skills_details'>
             <BsShieldFillCheck className='skills_details-icon' />
             <div>
