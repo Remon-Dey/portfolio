@@ -70,6 +70,13 @@ const Skills = () => {
             <small className='text-light'>Experienced</small>
             </div>
             </article>
+            <article className='skills_details'>
+            <BsShieldFillCheck className='skills_details-icon' />
+            <div>
+            <h4>NI MULTISIM</h4>
+            <small className='text-light'>Basic</small>
+            </div>
+            </article>
           </div>
         </div>
         
