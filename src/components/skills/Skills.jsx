@@ -51,6 +51,27 @@ const Skills = () => {
             <small className='text-light'>Basic</small>
             </div>
             </article>
+            <article className='skills_details'>
+            <BsShieldFillCheck className='skills_details-icon' />
+            <div>
+            <h4>Flask</h4>
+            <small className='text-light'>Basic</small>
+            </div>
+            </article>
+            <article className='skills_details'>
+            <BsShieldFillCheck className='skills_details-icon' />
+            <div>
+            <h4>Numpy</h4>
+            <small className='text-light'>Basic</small>
+            </div>
+            </article>
+            <article className='skills_details'>
+            <BsShieldFillCheck className='skills_details-icon' />
+            <div>
+            <h4>Pandas</h4>
+            <small className='text-light'>Basic</small>
+            </div>
+            </article>
           </div>
         </div>
         <div className="skills_tools-technology">
